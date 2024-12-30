@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarwanMamdohW2-0523016")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c6c30a6352a610be64a637021fd03a3f3c4ce38")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarwanMamdohW2-0523016")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarwanMamdohW2-0523016")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
