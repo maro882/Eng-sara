@@ -57,5 +57,6 @@ namespace MarwanMamdohW2_0523016.Controllers
             var p = await db.projects.Include(x => x.tasks).ThenInclude( x=> x.member).FirstOrDefaultAsync(x => x.Projectid == id);
             return View(p);
         }
+        //maro
     }
 }
